@@ -39996,7 +39996,7 @@ l===$&&A.a()
 k=m.a
 j=t.z
 s=8
-return A.S(l.x7("your_users_collection_id",A.ai(["name",c,"email",b,"phone",e,"country",a,"orders",[]],j,j),"your_database_id",k),$async$jn)
+return A.S(l.x7("users",A.ai(["name",c,"email",b,"phone",e,"country",a,"orders",[]],j,j),"users",k),$async$jn)
 case 8:q=m
 s=1
 break
